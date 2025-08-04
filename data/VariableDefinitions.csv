@@ -1,0 +1,10 @@
+Variable,Description,Unité
+DATE,Date de la mesure,YYYY-MM-DD
+WS2M,Vitesse du vent à 2 mètres,m/s
+T2M,Température à 2 mètres,°C
+T2MWET,Température du bulbe humide,°C
+T2MDEW,Point de rosée à 2 mètres,°C
+RH2M,Humidité relative à 2 mètres,%
+PS,Pression au sol,kPa
+QV2M,Humidité spécifique à 2 mètres,g/kg
+Target,Précipitation corrigée,mm/jour
