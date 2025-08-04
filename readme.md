@@ -15,3 +15,5 @@ This will install all the dependencies listed in the `requirements.txt` file.
 Once the dependencies are installed, open the notebook and run all the cells from top to bottom.
 
 No additional setup is required.
+
+- Head to my [discussion]["https://zindi.africa/competitions/localised-precipitation-forecasting-in-brazzaville-in-republic-of-congo-using-ai/discussions/28154"] on Zindi to have a proper walk through of the code
