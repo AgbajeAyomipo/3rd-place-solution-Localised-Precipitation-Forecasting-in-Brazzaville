@@ -16,4 +16,4 @@ Once the dependencies are installed, open the notebook and run all the cells fro
 
 No additional setup is required.
 
-- Head to my [discussion]["https://zindi.africa/competitions/localised-precipitation-forecasting-in-brazzaville-in-republic-of-congo-using-ai/discussions/28154"] on Zindi to have a proper walk through of the code
+- Head to my discussion on Zindi to have a proper walk through of the code: "https://zindi.africa/competitions/localised-precipitation-forecasting-in-brazzaville-in-republic-of-congo-using-ai/discussions/28154"
